@@ -10,3 +10,4 @@ const Timespend = ({redingtime}) => {
 };
 
 export default Timespend;
+
